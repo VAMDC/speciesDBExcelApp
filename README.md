@@ -13,6 +13,8 @@ Access the service with the url
 
 _yourServer:listeningPort/SpeciesDBExcelApp/getSpeciesExcel_
 
+This will download into your default download repository a timestamped excel file, containing all the species available into the VAMDC species DB.
+
 ## Motivation
 This provide a quick way for checking and crossmatching the content of the VAMDC database
 
