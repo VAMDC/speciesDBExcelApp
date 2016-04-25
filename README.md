@@ -11,7 +11,7 @@ Run a maven install, then put the generated output war in your preferred servlet
 
 Access the service with the url 
 
-__ yourServer:listeningPort/SpeciesDBExcelApp/getSpeciesExcel__
+_yourServer:listeningPort/SpeciesDBExcelApp/getSpeciesExcel_
 
 ## Motivation
 This provide a quick way for checking and crossmatching the content of the VAMDC database
