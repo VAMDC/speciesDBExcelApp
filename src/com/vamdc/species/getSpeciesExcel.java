@@ -106,7 +106,7 @@ public class getSpeciesExcel extends HttpServlet {
 	}
 
 	private void buildInternalObjectModel() {
-		speciesServiceUrl = "http://species.vamdc.org/api/v12.07/species";
+		speciesServiceUrl = "http://species.vamdc.org/web-service/api/v12.07/species";
 
 		this.columnsNames = new ArrayList<String>();
 		columnsNames.add("Node Name"); // 0
